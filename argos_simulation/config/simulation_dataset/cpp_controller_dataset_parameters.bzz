@@ -1,5 +1,5 @@
 # Dataset name
-DATASET_NAME="../../datasets/darpa"
+DATASET_NAME="/home/alan/DOOR-SLAM/simulation/robust_distributed_slam_simulation/argos_simulation/datasets/darpa"
 # Sensor maximum range
 SENSOR_RANGE=10.0
 
